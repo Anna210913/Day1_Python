@@ -1,5 +1,5 @@
 # Band Name Generator  
-A simple Python script that generates random band names.  
+This simple project creates fun, random band names, a playful way to practice user input and string manipulation.  
 
 ## What I learned
 - Basic input/output in Python  
